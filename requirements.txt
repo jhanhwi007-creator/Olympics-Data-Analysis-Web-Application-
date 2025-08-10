@@ -1,0 +1,8 @@
+streamlit
+plotly
+seaborn
+matplotlib
+numpy
+scipy==1.14.0
+pandas
+
